@@ -17,3 +17,4 @@ script:
     script: chmod +x ./deploy.sh && ./deploy.sh
     on:
       branch: master
+      
